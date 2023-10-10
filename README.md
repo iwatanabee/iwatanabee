@@ -1,7 +1,12 @@
 <!-- リポジトリステータス -->
+<h3>Hi there 👋</h3>
+<ul>
+  <li> 🏫 I'm a student, majoring in CS.</li>
+  <li> 👨‍💻 I want to be an Engineer in the future.</li>
+  <li> 🧪 The research topic : Image Recognition </li>
+</ul>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwatanabee&theme=2077)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact
-)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=iwatanabee)
 
