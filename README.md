@@ -1,4 +1,5 @@
 <!-- リポジトリステータス -->
+<h1>About me</h1>
 <h3>Hi there 👋</h3>
 <ul>
   <li> 🏫 I'm a student, majoring in CS.</li>
@@ -9,6 +10,8 @@
 </ul><br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,python,aws,docker,unity,c,cpp,java,&perline=8)](https://skillicons.dev)
+
+<h1>Status</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iwatanabee&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
