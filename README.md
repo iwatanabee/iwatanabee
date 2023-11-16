@@ -8,12 +8,12 @@
   <li> profile → https://iwatanabee.github.io/profile/
 </ul><br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,python,aws,docker,unity,c,cpp,java)](https://skillicons.dev)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwatanabee&theme=2077)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,python,aws,docker,unity,c,cpp,java,&perline=8)](https://skillicons.dev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iwatanabee&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwatanabee&theme=2077)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwatanabee&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/iwatanabee/github-readme-stats)
 
