@@ -8,7 +8,7 @@
   <li> profile → https://iwatanabee.github.io/profile/
 </ul><br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,python,aws,docker,unity,c,cpp,py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,python,aws,docker,unity,c,cpp,java)](https://skillicons.dev)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwatanabee&theme=2077)
 
