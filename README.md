@@ -6,20 +6,9 @@
   <li> 🧪 The research topic : Image Recognition </li>
   <li> 🖥 Internship         : Lit(WebS mentor Sinatra) SF(Rails react)</li>
   <li> profile → https://iwatanabee.github.io/profile/
-</ul>
-<h4>Skill</h4>
-<h5>web</h5>
+</ul><br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,python,aws,docker)](https://skillicons.dev)
-
-<h5>game</h5>
-
-[![My Skills](https://skillicons.dev/icons?i=unity,js,ruby,python)](https://skillicons.dev)
-
-
-<h5>other</h5>
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,eclipse,py,java&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,python,aws,docker,unity,c,cpp,py,java)](https://skillicons.dev)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwatanabee&theme=2077)
 
