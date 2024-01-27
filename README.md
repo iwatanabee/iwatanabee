@@ -6,7 +6,7 @@
   <li> 👨‍💻 I want to be an Engineer in the future.</li>
   <li> 🧪 The research topic : Image Recognition </li>
   <li> 🖥 Internship         : Lit(WebS mentor Sinatra) SF(Rails react)</li>
-  <li> profile → https://iwatanabee.github.io/profile/
+
 </ul><br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,python,aws,docker,unity,c,cpp,java,&perline=8)](https://skillicons.dev)
