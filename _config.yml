@@ -1,0 +1,48 @@
+title: "iwatanabee"
+email: issei.watanabe0708@gmail.com
+timezone: UTC
+baseurl: "/affiliates-jekyll-theme"
+permalink: "/:title/"
+# logo: '/'
+favicon: 'assets/images/favicon.ico'
+author: isse-
+paginate: 30
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+
+# Authors
+authors:
+  isse-:
+    name: isse-
+    display_name: isse-
+    avatar: 'assets/images/sal.png'
+    email: issei.watanabe0708@gmail.com
+    web: 
+    twitter: https://twitter.com/iwatanabee
+    description: "Isse- is a web developer and designer, and he loves what he does. He is very passionate about his work and always looking for new things to learn and explore. He enjoys meeting new people and facing new challenges."
+
+# Social
+social:
+  instagram: https://www.instagram.com/iwatanabee/
+  facebook: https://www.facebook.com/iwatanabee
+  # twitter: https://twitter.com/iwatanabe
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
