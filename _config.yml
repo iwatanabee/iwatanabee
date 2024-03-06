@@ -1,9 +1,9 @@
 title: "iwatanabee"
 email: issei.watanabe0708@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: ""
+remote_theme: wowthemesnet/affiliates-jekyll-theme
 permalink: "/:title/"
-# logo: '/'
 favicon: 'assets/images/favicon.ico'
 author: isse-
 paginate: 30
