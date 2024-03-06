@@ -20,5 +20,6 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'tzinfo-data'
     gem 'tzinfo'
+    gem "jekyll-remote-theme", "~> 0.4.3"
 end
 gem "webrick", "~> 1.8"
