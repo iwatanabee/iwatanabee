@@ -5,9 +5,9 @@ author: isse-
 categories: [ mittsu ]
 image: assets/images/2.jpg
 ---
-Mittsu というRubyのライブラリ
+テスト
 
 ## 概要
-Ruby の Mittsu 
+テスト
 
 
