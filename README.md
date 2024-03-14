@@ -5,7 +5,8 @@
   <li> 🏫 I'm a student, majoring in CS.</li>
   <li> 👨‍💻 I want to be an Engineer in the future.</li>
   <li> 🧪 The research topic : Image Recognition </li>
-  <li> 🖥 Internship         : Lit(WebS mentor Sinatra) SF(Rails react)</li>
+  <li> 💻 Internship         : Lit(WebS mentor Sinatra) SF(Rails react)</li>
+  <li> 🖥 my site → https://iwatanabee.github.io/iwatanabee/ </li>
 
 </ul><br>
 
